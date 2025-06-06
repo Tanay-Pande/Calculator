@@ -6,4 +6,4 @@ lex bas.l                       # create lex.yy.c
 cc lex.yy.c y.tab.c –o bas.exe  # compile/link     
 ./bas.exe <pre>
 
-![Calculator Output](diagram.png)
+  ![Calculator Output](image.png)
